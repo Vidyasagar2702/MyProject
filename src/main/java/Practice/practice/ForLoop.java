@@ -14,9 +14,16 @@ public class ForLoop {
 		{
 			System.out.println(i);
 		}
-//for loops comments from master
-		//comments
 
+//for loops comments from master comments
+
+
+		
+		for(int i=0;i<13;i++)
+		{
+			System.out.println(i);
+		}
+		
 	}
 
 }
