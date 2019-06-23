@@ -16,6 +16,7 @@ public class WhileLoop {
 		//Looks good changes
 		//commit 1
 		//commit 2
+		//commit 3
 	}
 
 }
