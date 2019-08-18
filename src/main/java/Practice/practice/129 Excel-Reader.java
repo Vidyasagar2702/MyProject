@@ -15,7 +15,7 @@ import java.io.*;
 import java.util.Calendar;
 
 
-public class ExcelReader {
+public class ExcelReader{
 	
 	public  String path;
 	public  FileInputStream fis = null;
